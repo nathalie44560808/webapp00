@@ -10,10 +10,10 @@ Escrever(db)
 st.title("jjk 👍!!")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
-st.header("sukuna é o melhor")
+st.header("sukuna é o melhor 🩸👹")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
-st.subheader("o ser humano é prisioneiro de sua própria liberdade. ele não tem escolha a não ser escolher")
+st.subheader("o ser humano é prisioneiro de sua própria liberdade. ele não tem escolha a não ser escolher 🩸")
 
 # Use st.write("") para adicionar um texto ao seu Web app
 st.write("como cocê já deve estar ligado st.write() é usado para escrita de texto e informações gerais!")
